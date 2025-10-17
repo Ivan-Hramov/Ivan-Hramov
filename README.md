@@ -44,8 +44,8 @@
 <br />
 
 <div style="display:flex" align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/dad5d025-91c3-43b9-9a3d-1c9266f77cb7" height="150" />
-    <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" height="150" />
+  <img src="https://github.com/Ivan-Hramov/Ivan-Hramov/blob/7b2d50669fa0a0bb4804cd7670addac53df255c6/325895940-dad5d025-91c3-43b9-9a3d-1c9266f77cb7.gif" height="150" />
+  <img src="https://github.com/Ivan-Hramov/Ivan-Hramov/blob/7b2d50669fa0a0bb4804cd7670addac53df255c6/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" height="150" />
 </div>
 <br />
 
