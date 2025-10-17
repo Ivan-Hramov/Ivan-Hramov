@@ -53,3 +53,5 @@
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/botvanjek)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1088185365950644306)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hramov06.mi@gmail.com)
+<br />
+<a href="https://discord.com/users/1088185365950644306"><img src="https://lanyard.cnrad.dev/api/1088185365950644306?hideStatus=true&hideDecoration=true" /></a>
